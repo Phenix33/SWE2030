@@ -1,0 +1,13 @@
+C:\Users\hp\Downloads\ifelse\ifelse1\bin\Debug\netcoreapp3.1\ifelse1.exe
+C:\Users\hp\Downloads\ifelse\ifelse1\bin\Debug\netcoreapp3.1\ifelse1.deps.json
+C:\Users\hp\Downloads\ifelse\ifelse1\bin\Debug\netcoreapp3.1\ifelse1.runtimeconfig.json
+C:\Users\hp\Downloads\ifelse\ifelse1\bin\Debug\netcoreapp3.1\ifelse1.runtimeconfig.dev.json
+C:\Users\hp\Downloads\ifelse\ifelse1\bin\Debug\netcoreapp3.1\ifelse1.dll
+C:\Users\hp\Downloads\ifelse\ifelse1\bin\Debug\netcoreapp3.1\ifelse1.pdb
+C:\Users\hp\Downloads\ifelse\ifelse1\obj\Debug\netcoreapp3.1\ifelse1.csprojAssemblyReference.cache
+C:\Users\hp\Downloads\ifelse\ifelse1\obj\Debug\netcoreapp3.1\ifelse1.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\ifelse\ifelse1\obj\Debug\netcoreapp3.1\ifelse1.AssemblyInfo.cs
+C:\Users\hp\Downloads\ifelse\ifelse1\obj\Debug\netcoreapp3.1\ifelse1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\ifelse\ifelse1\obj\Debug\netcoreapp3.1\ifelse1.dll
+C:\Users\hp\Downloads\ifelse\ifelse1\obj\Debug\netcoreapp3.1\ifelse1.pdb
+C:\Users\hp\Downloads\ifelse\ifelse1\obj\Debug\netcoreapp3.1\ifelse1.genruntimeconfig.cache
